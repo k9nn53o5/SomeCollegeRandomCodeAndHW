@@ -1,0 +1,11 @@
+9
+0 bedroom 0 0 CanSleepingHere human B
+1 living_room 0 1 CanWatchTV human L
+2 garden 0 2 PlayGround pet G
+3 bedroom 1 0 CanSnoozingHere human B
+4 petroom 1 1 CanSleepingHere pet P
+5 garden 1 2 PlayGround pet G
+6 wc 2 0 JustAWC human W
+7 petroom 2 1 CanSleepingHere pet P
+8 garden 2 2 PlayGround pet G
+n e w
